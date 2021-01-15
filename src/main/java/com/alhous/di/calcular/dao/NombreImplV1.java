@@ -12,16 +12,16 @@ public class NombreImplV1 implements INombre {
 
     @Override
     public double getNombre1() { 
-        System.out.print("Entrez le premier nombre : ");
-        double n1 = sc.nextDouble();
-        return n1;
+//        System.out.print("Entrez le premier nombre : ");
+//        double n1 = sc.nextDouble();
+        return 10;
     }
 
     @Override
     public double getNombre2() {
-        System.out.print("Entrez le deuxième nombre : ");
-        double n2 = sc.nextDouble();
-        return n2;
+//        System.out.print("Entrez le deuxième nombre : ");
+//        double n2 = sc.nextDouble();
+        return 10;
     }
 
 }
