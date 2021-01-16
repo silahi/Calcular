@@ -6,6 +6,6 @@ Cette application consite à mettre en place un calculateur tout en respectant l
 # Invocation dynamique de methodes
 # Couplage faible 
 # Injection de dépendence 
-#Inversion de contrôle
+# Inversion de contrôle
 Le but de l'application est qu'elle soit fermée à la modification et ouverte à l'extension. La prémière version de l'application permet de fair seulement l'addition ; 
 la deuxième version permet d'effectuer les  3 autres opérations 
